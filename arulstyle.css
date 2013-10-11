@@ -1,7 +1,10 @@
-body {
+html, body {
+  margin: 0;
   font-family: Arial, helvetica;
 }
 h1, h2 {
+  margin: 0;
+  padding: 1em;
   font-family: 'Kreon', serif;
   background: black;
   color: white;
